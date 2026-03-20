@@ -16,11 +16,26 @@
   <img src="https://img.shields.io/badge/Vite-5.x-646CFF?logo=vite&logoColor=white" alt="Vite" />
   <img src="https://img.shields.io/badge/SQLAlchemy-2.x-D71F00?logo=python&logoColor=white" alt="SQLAlchemy" />
   <img src="https://img.shields.io/badge/Groq_AI-LLM-FF6600?logo=ai&logoColor=white" alt="Groq" />
+  <img src="https://img.shields.io/badge/Deployed-Vercel-000000?logo=vercel&logoColor=white" alt="Vercel" />
 </p>
 
 <p align="center">
   Connect with verified lawyers, manage your cases, and get AI-powered legal analysis — all in one secure platform.
 </p>
+
+<p align="center">
+  <a href="https://blind-verdict-main-jmfl.vercel.app/">
+    <img src="https://img.shields.io/badge/🌐%20Live%20Demo-blind--verdict.vercel.app-4F46E5?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" />
+  </a>
+</p>
+
+---
+
+## 🌐 Live Demo
+
+**[https://blind-verdict-main-jmfl.vercel.app/](https://blind-verdict-main-jmfl.vercel.app/)**
+
+> The platform is live and fully functional. Register as a **Client** or **Lawyer**, explore the AI-powered case workflow, test the lawyer matching system, and interact with the document vault — all with pre-seeded demo data.
 
 ---
 
@@ -464,5 +479,5 @@ This project is built for the **hackathon** demonstration. All rights reserved.
   <br />
   <strong>BlindVerdict</strong> — Justice, Accessible to All
   <br />
-  <sub>Built with React, FastAPI, and AI</sub>
+  <sub>Built with React, FastAPI, and AI · <a href="https://blind-verdict-main-jmfl.vercel.app/">Live Demo</a></sub>
 </p>
